@@ -1,0 +1,21 @@
+{
+  "name": "devops_learning",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "run": "node index.js",
+    "test": "node Test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shahirbilagi/Devops_Learning.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shahirbilagi/Devops_Learning/issues"
+  },
+  "homepage": "https://github.com/shahirbilagi/Devops_Learning#readme",
+  "description": ""
+}
